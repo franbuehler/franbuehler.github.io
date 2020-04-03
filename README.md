@@ -34,7 +34,7 @@
 
 ## Profiles
 
-- [Twitter](https://twitter.com/franbuehler)
+- [Twitter](https://twitter.com/bufrasch)
 - [GitHub](https://github.com/franbuehler)
 - [LinkedIn](https://www.linkedin.com/in/franziska-buehler-bb037a163/)
 - [XING](https://www.xing.com/profile/Franziska_Buehler9/cv)
