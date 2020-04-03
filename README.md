@@ -42,5 +42,5 @@
 
 ## OWASP Projects
 
-- [OWASP DevSlop](https://owasp.org/www-project-devslop/), [devslop.co](https://devslop.co), [DevSlop GitHub](https://github.com/DevSlop/)
-- [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), [coreruleset.org](https://coreruleset.org), [CRS GitHub](https://github.com/SpiderLabs/owasp-modsecurity-crs)
+- [OWASP DevSlop](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
+- [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/SpiderLabs/owasp-modsecurity-crs)
