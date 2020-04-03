@@ -49,3 +49,8 @@
 
 - Professional Scrum Master I (PSMI), 2017
 - OSSTMM Professional Security Tester (OPST) [Isecom](https://www.isecom.org/certification.html), 2011
+
+## Education
+
+- BSc in Computer Science with Specialitation in IT Security, 2011
+- Computer Scientists with Federal Diploma, 2003
