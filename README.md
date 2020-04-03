@@ -1,7 +1,4 @@
-## Franziska Bühler
-
-
-### Articles and Blog Posts
+## Articles and Blog Posts
 
 - [DevSlop's Pixi-CRS Pipeline](https://dev.to/devslop/devslop-s-pixi-crs-pipeline-4bie) Dec 2019
 - [How the OWASP ModSecurity Core Rule Set protects the vulnerable web application Pixi by OWASP DevSlop](https://dev.to/devslop/how-the-owasp-modsecurity-core-rule-set-protects-the-vulnerable-web-application-pixi-by-owasp-devslop-n4d) Dec 2019
@@ -17,7 +14,7 @@
 - [Disassembling SQLi Rules](https://coreruleset.org/20171109/disassembling-sqli-rules/) Nov 2017 
 
 
-### Talks
+## Talks
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
@@ -35,7 +32,7 @@
 | Web Application Firewall - Friend of your DevOps Chains | May 30th 2018 | Open Cloud Day, Zurich Switzerland | [Slides](https://opencloudday.ch/wp-content/uploads/sites/6/2018/05/Franziska-Buehler_presentation_open_cloud_day.pdf) |
 | Web Application Firewall - Friend of your DevOps Chains | May 2nd 2018 | DevOpsDays Zurich, Switzerland | [Link to Conference/Slides/Video](https://devopsdays.org/events/2018-zurich/speakers/franziska-buehler/) |
 
-### Profiles
+## Profiles
 
 - [Twitter](https://twitter.com/franbuehler)
 - [GitHub](https://github.com/franbuehler)
@@ -43,7 +40,7 @@
 - [XING](https://www.xing.com/profile/Franziska_Buehler9/cv)
 - [SlideShare](https://de.slideshare.net/FranBuehler/)
 
-### OWASP Projects
+## OWASP Projects
 
 - [OWASP DevSlop](https://owasp.org/www-project-devslop/), [devslop.co](https://devslop.co), [DevSlop GitHub](https://github.com/DevSlop/)
 - [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), [coreruleset.org](https://coreruleset.org), [CRS GitHub](https://github.com/SpiderLabs/owasp-modsecurity-crs)
