@@ -44,3 +44,8 @@
 
 - [OWASP DevSlop](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
 - [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/SpiderLabs/owasp-modsecurity-crs)
+
+## Certifications
+
+- Professional Scrum Master I (PSMI), 2017
+- OSSTMM Professional Security Tester (OPST) [Isecom](https://www.isecom.org/certification.html), 2011
