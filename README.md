@@ -19,7 +19,7 @@
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
 | WAF - Would you like a little more web application security? | Oct 30th 2020 | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
-| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26thth 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
+| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 4th 2020  | ConfigMgmt Camp, Ghent Belgium | [Talk Abstract](https://cfp.cfgmgmtcamp.be/2020/speaker/P3L8VT/), Video coming soon |
 | Test Your WAF and Make it Your Friend | Jan 9th 2020 | TestGuild Security Podcast, Online | [Link to Episode](https://testguild.com/podcast/security/s04-franziska-buehler/) |
