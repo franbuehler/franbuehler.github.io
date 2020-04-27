@@ -1,5 +1,6 @@
 ## Articles and Blog Posts
 
+- [Puzzle Security-Days April 2020 (Co-Author, German)](https://www.puzzle.ch/de/blog/articles/2020/04/23/puzzle-security-days-april-2020) April 2020
 - [DevSlop's Pixi-CRS Pipeline](https://dev.to/devslop/devslop-s-pixi-crs-pipeline-4bie) Dec 2019
 - [How the OWASP ModSecurity Core Rule Set protects the vulnerable web application Pixi by OWASP DevSlop](https://dev.to/devslop/how-the-owasp-modsecurity-core-rule-set-protects-the-vulnerable-web-application-pixi-by-owasp-devslop-n4d) Dec 2019
 - [How the CRS protects the vulnerable web application Pixi by OWASP DevSlop](https://coreruleset.org/20190909/how-the-crs-protects-the-vulnerable-web-application-pixi-by-owasp-devslop/) Sep 2019
