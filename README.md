@@ -1,5 +1,7 @@
 ## Articles and Blog Posts
 
+- [Pixi-CRS goes to the Cloud - Part 2 : Amazon Web Services](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-2-amazon-web-services-2cgb) September 2020
+- [Pixi-CRS goes to the Cloud - Part 1: Intro](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-1-intro-14ip) September 2020
 - [Puzzle Security-Days April 2020 (Co-Author, German)](https://www.puzzle.ch/de/blog/articles/2020/04/23/puzzle-security-days-april-2020) April 2020
 - [DevSlop's Pixi-CRS Pipeline](https://dev.to/devslop/devslop-s-pixi-crs-pipeline-4bie) Dec 2019
 - [How the OWASP ModSecurity Core Rule Set protects the vulnerable web application Pixi by OWASP DevSlop](https://dev.to/devslop/how-the-owasp-modsecurity-core-rule-set-protects-the-vulnerable-web-application-pixi-by-owasp-devslop-n4d) Dec 2019
@@ -19,7 +21,7 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
-| WAF - Would you like a little more web application security? | Oct 30th 2020 | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
+| WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 4th 2020  | ConfigMgmt Camp, Ghent Belgium | [Talk Abstract](https://cfp.cfgmgmtcamp.be/2020/speaker/P3L8VT/), Video coming soon |
