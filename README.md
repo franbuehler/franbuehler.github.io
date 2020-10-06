@@ -1,5 +1,6 @@
 ## Articles and Blog Posts
 
+- [Pixi-CRS goes to the Cloud - Part 3 : Microsoft Azure DevOps](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-3-microsoft-azure-devops-gni) October 2020
 - [Pixi-CRS goes to the Cloud - Part 2 : Amazon Web Services](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-2-amazon-web-services-2cgb) September 2020
 - [Pixi-CRS goes to the Cloud - Part 1: Intro](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-1-intro-14ip) September 2020
 - [Puzzle Security-Days April 2020 (Co-Author, German)](https://www.puzzle.ch/de/blog/articles/2020/04/23/puzzle-security-days-april-2020) April 2020
