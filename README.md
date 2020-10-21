@@ -1,5 +1,7 @@
 ## Articles and Blog Posts
 
+- [Pixi-CRS goes to the Cloud - Part 5 : GitHub Actions ](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-5-github-actions-1ppe) Oct 2020
+- [Pixi-CRS goes to the Cloud - Part 4 : Google Cloud Platform](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-4-google-cloud-platform-260e) Oct 2020
 - [Pixi-CRS goes to the Cloud - Part 3 : Microsoft Azure DevOps](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-3-microsoft-azure-devops-gni) Oct 2020
 - [Pixi-CRS goes to the Cloud - Part 2 : Amazon Web Services](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-2-amazon-web-services-2cgb) Sept 2020
 - [Pixi-CRS goes to the Cloud - Part 1: Intro](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-1-intro-14ip) Sept 2020
