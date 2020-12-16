@@ -59,5 +59,5 @@
 
 ## Education
 
-- BSc in Computer Science with Specialitation in IT Security, 2011
+- BSc in Computer Science with a specialization in IT-Security, 2011
 - Computer Scientists with Federal Diploma, 2003
