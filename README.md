@@ -14,7 +14,7 @@
 - [Core Rule Set als Teil von DevOps (CI Pipeline) – Teil 2 (German)](https://www.puzzle.ch/de/blog/articles/2019/04/10/core-rule-set-als-teil-von-devops-ci-pipeline-teil-2) April 2019
 - [Der Weg in die IT-Sicherheit – die Story von Franziska Bühler (German)](https://www.puzzle.ch/de/blog/articles/2019/03/15/der-weg-in-die-it-sicherheit-die-story-von-franziska-buehler) March 2019
 - [Core Rule Set als Teil von DevOps (CI Pipeline) – Teil 1 (German)](https://www.puzzle.ch/de/blog/articles/2019/02/28/core-rule-set-als-teil-von-devops-ci-pipeline-teil-1) Feb 2019
-- [The Story of Franziska Bühler-Schmocker, Between Web Server Security and Web Application Firewalls](https://woman-in-cyber.com/2019/01/12/the-story-of-franziska-buhler-schmocker-between-web-server-security-and-web-application-firewalls/) Jan 2019
+- [The Story of Franziska Bühler-Schmocker, Between Web Server Security and Web Application Firewalls](https://wosec-singapore.com/2019/01/12/the-story-of-franziska-buhler-schmocker-between-web-server-security-and-web-application-firewalls/) Jan 2019
 - [Core Rule Set Docker Image](https://coreruleset.org/20181212/core-rule-set-docker-image/) Dec 2018
 - [OWASP DevSlop’s journey to TLS and Security Headers](https://medium.com/@franbuehler/owasp-devslops-journey-to-tls-and-security-headers-aa892f1ac851) Nov 2018
 - [The Core Rule Set as Part of DevOps (CI pipeline)](https://coreruleset.org/20180619/the-core-rule-set-as-part-of-devops-ci-pipeline/) June 2018
