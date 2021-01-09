@@ -50,15 +50,15 @@
 ## OWASP Projects
 
 - [OWASP DevSlop](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
-- [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/SpiderLabs/owasp-modsecurity-crs)
+- [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/coreruleset/)
 
 ## Certifications
 
-- Certified Information Systems Security Professional (CISSP), 2021
+- Certified Information Systems Security Professional (CISSP) by ISC2, 2021
 - Professional Scrum Master I (PSMI), 2017
-- OSSTMM Professional Security Tester (OPST) [Isecom](https://www.isecom.org/certification.html), 2011
+- OSSTMM Professional Security Tester (OPST) by [Isecom](https://www.isecom.org/certification.html), 2011
 
 ## Education
 
 - BSc in Computer Science with a specialization in IT-Security, 2011
-- Computer Scientists with Federal Diploma, 2003
+- Computer Scientist with Federal Diploma, 2003
