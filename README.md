@@ -54,6 +54,7 @@
 
 ## Certifications
 
+- Certified Information Systems Security Professional (CISSP), 2021
 - Professional Scrum Master I (PSMI), 2017
 - OSSTMM Professional Security Tester (OPST) [Isecom](https://www.isecom.org/certification.html), 2011
 
