@@ -25,7 +25,7 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
-| Web Application Firewall – Eine Einführung (German) | June 14 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
+| Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
 | WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
