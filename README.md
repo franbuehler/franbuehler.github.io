@@ -26,7 +26,7 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
-| Wie sich Communities gegenseitig inspirieren (German) | November 23rd 2022 | DINAcon Kompakt | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
+| Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
 | CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
 | Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
 | WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
