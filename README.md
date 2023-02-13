@@ -1,6 +1,6 @@
 ## Articles and Blog Posts
 
-- [Meet the CRS team: Fränzi, the puzzle-loving hard worker with a mission](https://coreruleset.org/20230117/meet-the-crs-team-franzi-the-puzzle-loving-hard-worker-with-a-mission/) Jan 2023
+- [Meet the CRS team: Fränzi, the puzzle-loving hard worker with a mission (Author: Alessandro )](https://coreruleset.org/20230117/meet-the-crs-team-franzi-the-puzzle-loving-hard-worker-with-a-mission/) Jan 2023
 - [Pixi-CRS goes to the Cloud - Part 6 : Summary and Comparison](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-6-summary-and-comparison-25p4) Oct 2020
 - [Pixi-CRS goes to the Cloud - Part 5 : GitHub Actions ](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-5-github-actions-1ppe) Oct 2020
 - [Pixi-CRS goes to the Cloud - Part 4 : Google Cloud Platform](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-4-google-cloud-platform-260e) Oct 2020
@@ -26,12 +26,13 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
+| Wie sich Communities gegenseitig inspirieren (German) | November 23rd 2022 | DINAcon Kompakt | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
 | CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
 | Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
 | WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
-| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 4th 2020  | ConfigMgmt Camp, Ghent Belgium | [Talk Abstract](https://cfp.cfgmgmtcamp.be/2020/speaker/P3L8VT/), Video coming soon |
+| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 4th 2020  | ConfigMgmt Camp, Ghent Belgium | [Talk Abstract](https://cfp.cfgmgmtcamp.be/2020/speaker/P3L8VT/) |
 | Test Your WAF and Make it Your Friend | Jan 9th 2020 | TestGuild Security Podcast, Online | [Link to Episode](https://testguild.com/podcast/security/s04-franziska-buehler/) |
 | Web Application Firewall in DevOps | Dec 10th 2019 | German OWASP Day, Karlsruhe Germany | [Video in German](https://youtu.be/7e_3WGOJuHA) |
 | The Core Rule Set - Crafting a Security focused DevOps Program | Nov 6th 2019 | All Day DevOps, Online | [Video](https://play.vidyard.com/TkCgrXFjM2ntXrhM7rrGP6?) with Chaim Sanders |
