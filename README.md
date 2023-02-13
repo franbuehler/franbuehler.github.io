@@ -47,14 +47,14 @@
 
 - [Twitter](https://twitter.com/bufrasch)
 - [GitHub](https://github.com/franbuehler)
-- [LinkedIn](https://www.linkedin.com/in/franziska-buehler-bb037a163/)
+- [LinkedIn](https://www.linkedin.com/in/f-buehler/)
 - [XING](https://www.xing.com/profile/Franziska_Buehler9/cv)
 - [SlideShare](https://de.slideshare.net/FranBuehler/)
 
 ## OWASP Projects
 
-- [OWASP DevSlop](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
 - [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/coreruleset/)
+- [OWASP DevSlop 2018-2020](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
 
 ## Certifications
 
