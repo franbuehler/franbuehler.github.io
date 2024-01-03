@@ -26,12 +26,12 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
-| WAFs bei der SBB - ein Blick hinter die Kulissen (German) | Jan 24th 2024 | DevOps Meetup Bern | [Abstract](https://meetu.ps/e/MK8Nf/CYY0m/i) |
-| Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt, Bern | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
-| CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
+| WAFs bei der SBB - ein Blick hinter die Kulissen (German) | Jan 24th 2024 | DevOps Meetup Bern,  Switzerland | [Talk Abstract](https://meetu.ps/e/MK8Nf/CYY0m/i) |
+| Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt, Bern, Switzerland | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
+| CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin, Germany | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
 | Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
 | WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
-| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
+| Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich, Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 4th 2020  | ConfigMgmt Camp, Ghent Belgium | [Talk Abstract](https://cfp.cfgmgmtcamp.be/2020/speaker/P3L8VT/) |
 | Test Your WAF and Make it Your Friend | Jan 9th 2020 | TestGuild Security Podcast, Online | [Link to Episode](https://testguild.com/podcast/security/s04-franziska-buehler/) |
@@ -41,6 +41,7 @@
 | OWASP ModSecurity Core Rule Set (CRS) | May 10th 2019 | OWASP DevSlop Show, Online | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/260969734/), [Video](https://www.youtube.com/watch?v=JA-o6Bm5pkk) with Christian Folini |
 | Web Application Firewall in DevOps | March 20th 2019 | DevOps Fusion, Zurich, Switzerland | [Talk Abstract in German](https://test.devops-fusion.com/en/speaker/franziska-buehler/) |
 | Adding CRS3 and Pixi to CircleCI pipeline | June 2018 | Open Security Summit, London | [Talk Abstract](https://2018.open-security-summit.org/tracks/devsecops/user-sessions/adding-crs3-pixi-to-circleci-pipeline/) |
+| WAFs in CI Pipelines (German) | June 18th 2018 | DevOps Meetup Bern, Switzerland | [Talk Abstract](https://meetu.ps/e/DWnT0/CYY0m/i) |
 | Web Application Firewall - Friend of your DevOps Chains | May 30th 2018 | Open Cloud Day, Zurich Switzerland | [Slides](https://opencloudday.ch/wp-content/uploads/sites/6/2018/05/Franziska-Buehler_presentation_open_cloud_day.pdf) |
 | Web Application Firewall - Friend of your DevOps Chains | May 2nd 2018 | DevOpsDays Zurich, Switzerland | [Link to Conference/Slides/Video](https://devopsdays.org/events/2018-zurich/speakers/franziska-buehler/) |
 
