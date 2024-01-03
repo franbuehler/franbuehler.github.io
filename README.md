@@ -55,8 +55,13 @@
 
 ## OWASP Projects
 
-- [OWASP ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/), Website: [coreruleset.org](https://coreruleset.org), GitHub: [CRS GitHub](https://github.com/coreruleset/)
-- [OWASP DevSlop 2018-2020](https://owasp.org/www-project-devslop/), Website: [devslop.co](https://devslop.co), GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
+- [OWASP CRS](https://owasp.org/www-project-modsecurity-core-rule-set/)
+   - Role: Developer
+   - Website: [coreruleset.org](https://coreruleset.org)
+   - GitHub: [CRS GitHub](https://github.com/coreruleset/coreruleset)
+- [OWASP DevSlop](https://owasp.org/www-project-devslop/)
+   - Role: Team Member 2018 - 2020
+   - GitHub: [DevSlop GitHub](https://github.com/DevSlop/)
 
 ## Certifications
 
