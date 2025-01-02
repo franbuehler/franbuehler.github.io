@@ -30,7 +30,7 @@
 | WAFs bei der SBB - ein Blick hinter die Kulissen (German) | Jan 24th 2024 | DevOps Meetup Bern,  Switzerland | [Talk Abstract](https://meetu.ps/e/MK8Nf/CYY0m/i) |
 | Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt, Bern, Switzerland | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
 | CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin, Germany | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
-| Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/event/web-application-firewall-vor-ort/) |
+| Web Application Firewall – Eine Einführung (German) | June 14th 2021 | Guild42.ch, online and Bern, Switzerland | [Talk Abstract](https://guild42.ch/events/web-application-firewall-an-introduction/) |
 | WAF - Would you like a little more web application security? | canceled | Uphill Conf Mount Gurten, Switzerland | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 26th 2020  | Developer UnConference, Zurich, Switzerland | [Talk Schedule](https://www.meetup.com/Big-Data-Developers-Switzerland/events/267294343/) |
 | Web Application Firewall: Friend of your DevOps Pipeline? | Feb 11th 2020  | MyDevSecOps, Online | [Video](https://www.mydevsecops.io/post/web-application-firewall-friend-of-your-devops-pipeline) |
