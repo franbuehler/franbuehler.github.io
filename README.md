@@ -26,7 +26,7 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
-| Securing Applications and Managing WAFs at a large scale | Jun 13th 2024 | Kubernetes Community Days Zürich, Switzerland | [KCD Zürich](https://kcdzurich.ch/) |
+| Securing Applications and Managing WAFs at a large scale | Jun 13th 2024 | Kubernetes Community Days Zürich, Switzerland | [KCD Zürich](https://kcdzurich.ch/), [Recording](https://www.youtube.com/embed/LFSdsGhC-mM) |
 | WAFs bei der SBB - ein Blick hinter die Kulissen (German) | Jan 24th 2024 | DevOps Meetup Bern,  Switzerland | [Talk Abstract](https://meetu.ps/e/MK8Nf/CYY0m/i) |
 | Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt, Bern, Switzerland | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
 | CXO Panel - Diversity In Bug Hunting | April 9th 2022 | Nullcon Berlin, Germany | [Abstract](https://nullcon.net/berlin-2022/franziska-buhler), [Recording](https://www.youtube.com/watch?v=7VNIe6QG2GQ) |
