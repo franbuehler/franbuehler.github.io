@@ -1,7 +1,7 @@
 ## Articles and Blog Posts
 
-- [The new netnea-CRS-Upgrading-Plugin: Simplifying the Migration from CRS v3 to v4]([https://coreruleset.org/20230117/meet-the-crs-team-franzi-the-puzzle-loving-hard-worker-with-a-mission/](https://www.netnea.com/cms/2025/11/20/the-new-netnea-crs-upgrading-plugin-simplifying-the-migration-from-crs-v3-to-v4/)) Nov 2025
-- [The netnea-CRS-Upgrading-Plugin: Technical Implementation Details]([https://coreruleset.org/20230117/meet-the-crs-team-franzi-the-puzzle-loving-hard-worker-with-a-mission/](https://www.netnea.com/cms/2025/12/18/the-netnea-crs-upgrading-plugin-technical-implementation-details/)) Dec 2025
+- [The new netnea-CRS-Upgrading-Plugin: Simplifying the Migration from CRS v3 to v4](https://www.netnea.com/cms/2025/11/20/the-new-netnea-crs-upgrading-plugin-simplifying-the-migration-from-crs-v3-to-v4/) Nov 2025
+- [The netnea-CRS-Upgrading-Plugin: Technical Implementation Details](https://www.netnea.com/cms/2025/12/18/the-netnea-crs-upgrading-plugin-technical-implementation-details/) Dec 2025
 - [Meet the CRS team: Fränzi, the puzzle-loving hard worker with a mission (Author: Alessandro Monachesi)](https://coreruleset.org/20230117/meet-the-crs-team-franzi-the-puzzle-loving-hard-worker-with-a-mission/) Jan 2023
 - [Pixi-CRS goes to the Cloud - Part 6 : Summary and Comparison](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-6-summary-and-comparison-25p4) Oct 2020
 - [Pixi-CRS goes to the Cloud - Part 5 : GitHub Actions ](https://dev.to/devslop/pixi-crs-goes-to-the-cloud-part-5-github-actions-1ppe) Oct 2020
