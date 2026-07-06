@@ -29,6 +29,7 @@
 
 | Title                              | When          | Where            | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------------- |
+| Open Source: Wer pflegt das Fundament unserer digitalen Gesellschaft? (German) | Jun 17th 2024 | Parldigi-Dinner, Switzerland | [Rückblick: Parldigi-Dinner zu Open Source Technologien im Sicherheitsbereich](https://parldigi.ch/de/rueckblick-parldigi-dinner-open-source-sicherheitsbereich/) |
 | Securing Applications and Managing WAFs at a large scale | Jun 13th 2024 | Kubernetes Community Days Zürich, Switzerland | [Speakers 2024](https://cloudnativezurich.ch/archive-2024/), [Recording](https://www.youtube.com/embed/LFSdsGhC-mM) |
 | WAFs bei der SBB - ein Blick hinter die Kulissen (German) | Jan 24th 2024 | DevOps Meetup Bern,  Switzerland | [Talk Abstract](https://meetu.ps/e/MK8Nf/CYY0m/i) |
 | Wie sich Communities gegenseitig inspirieren (German) | Nov 23rd 2022 | DINAcon Kompakt, Bern, Switzerland | [Lightning Talk](https://dinacon.ch/programm-2022/), [Slides](https://dinacon.ch/wp-content/uploads/sites/4/2022/12/Puzzle.pdf) |
