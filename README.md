@@ -1,5 +1,6 @@
 ## Articles and Blog Posts
 
+- [Plugins can finally extend CRS lists: The new plugin contract in CRS 4.31.0](https://coreruleset.org/20261124/plugin-contract-crs-4-31-0/) Nov 2026
 - [The netnea-CRS-Upgrading-Plugin: A Real-World Migration](https://www.netnea.com/cms/2026/06/01/the-netnea-crs-upgrading-plugin-a-real-world-migration/) June 2026
 - [The netnea-CRS-Upgrading-Plugin: Technical Implementation Details](https://www.netnea.com/cms/2025/12/18/the-netnea-crs-upgrading-plugin-technical-implementation-details/) Dec 2025
 - [The new netnea-CRS-Upgrading-Plugin: Simplifying the Migration from CRS v3 to v4](https://www.netnea.com/cms/2025/11/20/the-new-netnea-crs-upgrading-plugin-simplifying-the-migration-from-crs-v3-to-v4/) Nov 2025
